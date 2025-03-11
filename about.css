@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: white;
+    color: white;
+}
+
+/* navbar */
+
+.navbar {
+    background-color: rgb(233, 165, 38);
+
+}
+
+.navbar-brand {
+    margin-left: 8rem;
+    font-weight: 600;
+    color: white;
+}
+
+.navbar-menu a {
+    color: white;
+  text-decoration: none;
+}
+
+.navbar-icon img{
+    color: white;
+    margin-right: 8rem;
+    width: auto;
+    height: 1.4rem;
+}
+
+.custom-icon img{
+    margin-right: 0 !important;
+}
+
+.filter-white {
+    filter: brightness(0) invert(1);
+}
+
+
+
+
+
+
+
+/* Footer */
+.footer {
+    width: auto;
+    height: 30rem;
+    background-color: rgb(43, 43, 43);
+}
