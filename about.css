@@ -50,6 +50,11 @@ body {
     background-color: rgb(43, 43, 43);
 }
 
+.footer a {
+    color: white;
+    text-decoration: none;
+}
+
 .hr {
     margin-left: 5rem;
     margin-right: 5rem;
